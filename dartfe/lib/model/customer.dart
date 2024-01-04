@@ -26,5 +26,5 @@ class Customer{
   @override
   String toString(){
     return "id: $id, name:$fullName, birthday:$birthday, address:$address, phoneNumber: $phoneNumber";
-}
+  }
 }
